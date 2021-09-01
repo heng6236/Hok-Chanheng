@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include form_course_register *.css
+recursive-include form_course_register *.csv
+recursive-include form_course_register *.html
+recursive-include form_course_register *.ico
+recursive-include form_course_register *.js
+recursive-include form_course_register *.json
+recursive-include form_course_register *.md
+recursive-include form_course_register *.png
+recursive-include form_course_register *.py
+recursive-include form_course_register *.svg
+recursive-include form_course_register *.txt
+recursive-exclude form_course_register *.pyc
