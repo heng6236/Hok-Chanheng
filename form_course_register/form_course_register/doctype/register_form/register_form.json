@@ -108,24 +108,40 @@
    "read_only": 1
   },
   {
+<<<<<<< HEAD
    "fieldname": "a",
    "fieldtype": "Data",
    "hidden": 1,
    "label": "a"
   },
   {
+=======
+>>>>>>> 222b6cdf9c0e954f221f5805a2c2ee90abd2504d
    "fieldname": "course_price",
    "fieldtype": "Float",
    "in_list_view": 1,
    "label": "Course Price",
    "non_negative": 1,
    "read_only": 1
+<<<<<<< HEAD
+=======
+  },
+  {
+   "fieldname": "a",
+   "fieldtype": "Data",
+   "hidden": 1,
+   "label": "a"
+>>>>>>> 222b6cdf9c0e954f221f5805a2c2ee90abd2504d
   }
  ],
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
+<<<<<<< HEAD
  "modified": "2021-09-02 09:37:16.062834",
+=======
+ "modified": "2021-09-02 07:16:12.935324",
+>>>>>>> 222b6cdf9c0e954f221f5805a2c2ee90abd2504d
  "modified_by": "Administrator",
  "module": "Form Course Register",
  "name": "Register Form",
